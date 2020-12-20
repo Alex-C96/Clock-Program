@@ -8,5 +8,4 @@ During this project I became more comfortable using functions and searching thro
 made this project easy to debug, read, and in the future to make adaptations.
 
 Thanks for reading!
-Alex Clarke
 
